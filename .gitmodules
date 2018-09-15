@@ -1,0 +1,15 @@
+[submodule "design-principles-srp"]
+	path = design-principles-srp
+	url = git@github.com:viniciusls/design-principles-srp.git
+[submodule "design-principles-ocp"]
+	path = design-principles-ocp
+	url = git@github.com:viniciusls/design-principles-ocp.git
+[submodule "design-principles-lsp"]
+	path = design-principles-lsp
+	url = git@github.com:viniciusls/design-principles-lsp.git
+[submodule "design-principles-isp"]
+	path = design-principles-isp
+	url = git@github.com:viniciusls/design-principles-isp.git
+[submodule "design-principles-dip"]
+	path = design-principles-dip
+	url = git@github.com:viniciusls/design-principles-dip.git
